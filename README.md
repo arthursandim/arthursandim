@@ -1,4 +1,11 @@
-### Olá! Eu sou o Arthur Sandim.
+### 🧔 Olá! Eu sou o Arthur Sandim.
+<p> 🤖 Atualmente estou me desenvolvendo em HTML, CSS, JavaScript, Python e MySql.<p>
+<p> 📜 Sou formado em Análise e Desenvolvimento de Sistemas, pela Faculdade Estácio de Sá.</p>
+<p> 📖 Estudante de Sistemas de Informação, na Universidade Federal de Santa Catarina.</p>
+<p> 🖥️ Atuo, atualmente, como Analista de Suporte HelpDesk.</p>
+
+##
+
 <div align="center">
   <a href="https://github.com/arthursandim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthursandim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
