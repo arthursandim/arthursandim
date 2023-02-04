@@ -1,7 +1,7 @@
 ### 🧔 Olá! Eu sou o Arthur Sandim.
 <p> 🤖 Atualmente estou me desenvolvendo em Java.<p>
 <p> 📜 Sou formado em Análise e Desenvolvimento de Sistemas, pela Faculdade Estácio de Sá.</p>
-<p> 🖥️ Atuo, atualmente, como Analista de Suporte HelpDesk.</p>
+<p> 🖥️ Atuo como Analista de Suporte HelpDesk.</p>
 
 ##
 <div align="center">
