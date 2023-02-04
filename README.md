@@ -1,7 +1,6 @@
 ### 🧔 Olá! Eu sou o Arthur Sandim.
-<p> 🤖 Atualmente estou me desenvolvendo em HTML, CSS, JavaScript, Python e MySQL.<p>
+<p> 🤖 Atualmente estou me desenvolvendo em Java.<p>
 <p> 📜 Sou formado em Análise e Desenvolvimento de Sistemas, pela Faculdade Estácio de Sá.</p>
-<p> 📖 Estudante de Sistemas de Informação, na Universidade Federal de Santa Catarina.</p>
 <p> 🖥️ Atuo, atualmente, como Analista de Suporte HelpDesk.</p>
 
 ##
