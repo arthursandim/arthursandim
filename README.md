@@ -8,6 +8,15 @@
 
   <a href="https://github.com/arthursandim">![Snake animation](https://github.com/arthursandim/arthursandim/blob/output/github-contribution-grid-snake.svg)</a>
   
+</div>
+
+<div align="center">
+  <a href="https://github.com/arthursandim">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthursandim&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursandim&layout=compact&langs_count=5&theme=merko"/>
+  </a>
+</div>
+  
 ##
   
 <div>
