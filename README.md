@@ -1,7 +1,7 @@
 ### 🧔 Olá! Eu sou o Arthur Sandim.
 <p> 🤖 Atualmente estou me desenvolvendo em Javascript Fullstack.<p>
 <p> 📜 Sou formado em Análise e Desenvolvimento de Sistemas, pela Faculdade Estácio de Sá, em 2022.</p>
-<p> 🖥️ Atuo como Analista de Qualidade.</p>
+<p> 🖥️ Atuo como Analista de Qualidade na empresa Nextar.</p>
 
 #
 <div>
